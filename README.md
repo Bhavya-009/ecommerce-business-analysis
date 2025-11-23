@@ -38,3 +38,9 @@ This project analyzes a large-scale e-commerce clickstream dataset to uncover pa
 - Top revenue-generating brands
 - Top-performing categories by revenue contribution
 - Outlier detection in high-value purchase
+
+  ## 📈 Key Insights (Short Summary)
+- The majority of user activity is driven by product views, with a much smaller cart-to-purchase conversion.
+- Electronics—especially smartphones—dominate revenue.
+- Apple and Samsung are the top-performing brands.
+- High-price products have lower conversion but higher revenue contribution.
